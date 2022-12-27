@@ -3,3 +3,7 @@ New feature added
 New line added
 
 New line added in the Test Branch 
+
+Another line added in the branch 
+
+Lets amend the commit
